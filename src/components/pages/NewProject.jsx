@@ -18,8 +18,8 @@ function NewProject() {
         })
         .then(res => res.json())
         .then((data) => {
-            console.log(data);
-            history('/projects', {message: 'Projeto criado com sucesso'})
+            console.log(data)
+            history('/projects', {state: {message: 'Projeto criado com sucesso'}})
         })
         .catch(err => console.log(err))
     }
