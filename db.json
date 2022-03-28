@@ -1,17 +1,6 @@
 {
   "projects": [
     {
-      "name": "tarara",
-      "budget": "34000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
       "name": "rtytry",
       "budget": "44444",
       "category": {
@@ -43,17 +32,6 @@
       "cost": 0,
       "services": [],
       "id": 4
-    },
-    {
-      "name": "XUXUXU",
-      "budget": "40999",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
     },
     {
       "name": "zebra",
