@@ -1,25 +1,27 @@
 {
   "projects": [
     {
-      "name": "Projeto editado",
-      "budget": "4000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
       "name": "Projeto att com message",
       "budget": "4100",
       "category": {
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 560,
+      "services": [
+        {
+          "name": "Jiba",
+          "cost": "190",
+          "description": "Bola de Volei",
+          "id": "13fbf615-09fc-46c9-ac24-1f31fcc38fd1"
+        },
+        {
+          "name": "Whats",
+          "cost": "370",
+          "description": "Manda manda",
+          "id": "9ce4ce21-aa53-4020-9ac8-7d36a3076b1e"
+        }
+      ],
       "id": 3
     },
     {
